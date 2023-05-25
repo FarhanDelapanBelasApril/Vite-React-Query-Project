@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "id": "VqMbYspKim8CMVF4",
+      "task": "Kerja kelompok DW & BI",
+      "completed": true,
+      "createdAt": "2023-05-23T13:40:05.837Z",
+      "updatedAt": "2023-05-25T12:42:58.302Z"
+    },
+    {
+      "id": "S2y3Jx8nTg3kQJ24",
+      "task": "Mengumpulkan Makalah DW & BI",
+      "completed": true,
+      "createdAt": "2023-05-23T13:43:30.130Z",
+      "updatedAt": "2023-05-25T13:12:23.310Z"
+    },
+    {
+      "id": "SO627DzUyGMvvgH_",
+      "task": "Mengerjakan Proposal PIK",
+      "completed": false,
+      "createdAt": "2023-05-24T03:57:25.115Z",
+      "updatedAt": "2023-05-25T12:10:01.971Z"
+    },
+    {
+      "id": "RDM85xQvNVmgqIv1",
+      "task": "Kerja kelompok PIK",
+      "completed": false,
+      "createdAt": "2023-05-25T11:56:18.945Z",
+      "updatedAt": "2023-05-25T12:10:00.467Z"
+    },
+    {
+      "id": "H-ZLJquusmTOZ3Rn",
+      "task": "Mengajukan surat rekomendasi magang MSIB Batch 5",
+      "completed": true,
+      "createdAt": "2023-05-25T12:07:34.417Z",
+      "updatedAt": "2023-05-25T12:40:10.267Z"
+    },
+    {
+      "id": "Yh2w8eYM9watIy6d",
+      "task": "Memperbarui CV dan Profile",
+      "completed": true,
+      "createdAt": "2023-05-25T12:08:01.381Z",
+      "updatedAt": "2023-05-25T13:12:21.352Z"
+    },
+    {
+      "id": "bk-TYOwlPP03wcVD",
+      "task": "Menyelesaika project React Query Example",
+      "completed": true,
+      "createdAt": "2023-05-25T12:08:33.581Z",
+      "updatedAt": "2023-05-25T12:55:57.669Z"
+    }
+  ]
+}
